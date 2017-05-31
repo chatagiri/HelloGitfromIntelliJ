@@ -26,7 +26,8 @@ Projectを右クリック -> "Git" -> "Commit Directory"
 CommitMessageを入力して右下Commit押す
 Projectを右クリック -> "Git" -> "Repository" ->"Push"
 初回はLoginForm表示されるかもしれないが普通にログイン
-GitHubチェックして無事Pushできてたら成功
+GitHubチェックして無事Pushできてたら成功です
+
 
 
 
