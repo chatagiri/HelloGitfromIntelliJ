@@ -19,9 +19,14 @@ File -> Settings -> Versionコントロールタブを開く
 タブ閉じるor閉じたら一番下のOK押すのを忘れない
 
 #IntelliJのGUIからGitHubにpushするまで
+Projectを右クリック -> "Git" -> "Repository" -> "Remote"
+GitHub上PushしたいリポジトリのURLを追加する
 Projectを右クリック -> "Git" -> "Add"
 Projectを右クリック -> "Git" -> "Commit Directory"
 CommitMessageを入力して右下Commit押す
+Projectを右クリック -> "Git" -> "Repository" ->"Push"
+初回はLoginForm表示されるかもしれないが普通にログイン
+GitHubチェックして無事Pushできてたら成功
 
 
 
