@@ -18,7 +18,8 @@ File -> Settings -> Versionコントロールタブを開く
 作成済みGitHub垢のユーザ名，パスワードでログイン
 タブ閉じるor閉じたら一番下のOK押すのを忘れない
 
-#IntelliJのGUIからGitHubする
+#IntelliJのGUIからGitHubにpushするまで
+Projectを右クリック -> "Git" -> "Add"
 Projectを右クリック -> "Git" -> "Commit Directory"
 CommitMessageを入力して右下Commit押す
 
